@@ -1,0 +1,14 @@
+RewriteEngine on
+
+RewriteBase /bkd/
+RewriteRule ^home scr/home.php [L]
+RewriteRule ^login scr/login.php [L]
+RewriteRule ^logout scr/logout.php [L]
+RewriteRule ^identitas-edit scr/identitas_edit.php [L]
+RewriteRule ^identitas scr/identitas.php [L]
+RewriteRule ^json scr/json.php [L]
+RewriteRule ^cetak scr/cetak.php [L]
+RewriteRule ^pendidikan-new scr/pendidikan_new.php [L]
+RewriteRule ^pendidikan-edit scr/pendidikan_edit.php [L]
+RewriteRule ^pendidikan scr/pendidikan.php [L]
+RewriteRule ^404 scr/404.php [L]
