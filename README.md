@@ -9,6 +9,9 @@ Terkait aplikasi "iseng" ini:
 - DB hanya berisi data asesor yang ditampilkan di menu Edit Identitas
 - Untuk merubah koneksi DB, edit di file: json.php
 
+Keterangan lebih lanjut terkait alikasi ini dapat diakses:
+http://muchad.com/berawal-dari-konsep.html
+
 Have a nice day n enjoy my songs at www.play.muchad.com
 
 Disclaimer: All images in login page are copyright to their respective owners.
